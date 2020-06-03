@@ -16,6 +16,9 @@ By learning English and corresponding Chinese translation, a machine translation
 * Using GRU to complete feature extraction of time series data
 * Finally, use the learned machine translation model to translate English sentences
 
+### Loss of the model
+![loss plot](/images/logo.png)
+
 ## Notes about Sequence to Sequence
 
 ### Thinking1：What is AutoEncoder?
@@ -43,4 +46,5 @@ however,if the input sentence is too long, it is hard for a single vector from t
 ### Ans:
 1. ***Self-attention***, also known as intra-attention, is an attention mechanism relating different positions of a single sequence in order to compute a representation of the same sequence.
 2. Rather than only computing the attention once, the ***multi-head mechanism** runs through the scaled dot-product attention multiple times in parallel. The independent attention outputs are simply concatenated and linearly transformed into the expected dimensions.
+
 
