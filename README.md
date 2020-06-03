@@ -19,6 +19,48 @@ By learning English and corresponding Chinese translation, a machine translation
 ### Loss of the model
 ![loss plot](Loss_plot.png)
 
+### Model evaluation
+
+> i m looking over his report .
+= ['我', '在', '阅读', '他', '的', '报告', '。']
+< 我 在 阅读 他 的 报告 。 <EOS>
+
+> he is living abroad at the moment .
+= ['他', '现在', '住', '在', '国外', '。']
+< 他 现在 住 在 国外 。 <EOS>
+
+> she s my type .
+= ['她', '是', '我', '的', '菜', '。']
+< 她 是 我 的 菜 。 <EOS>
+
+> we re out of stock now .
+= ['我们', '现在', '缺乏', '库存', '。']
+< 我们 现在 缺乏 库存 。 <EOS>
+
+> he s such a sweetheart .
+= ['他', '真是', '甜心', '。']
+< 他 真是 甜心 。 <EOS>
+
+> they are eating their apples .
+= ['他們', '在', '吃', '他們', '的', '蘋果', '。']
+< 他們 在 吃 他們 的 蘋果 。 <EOS>
+
+> we are traveling on a tight budget .
+= ['我們', '很', '節省', '地', '旅行', '。']
+< 我們 用少 的 預算 旅行 。 <EOS>
+
+> i m free tonight .
+= ['我', '今晚', '有空', '。']
+< 我 今晚 有空 。 <EOS>
+
+> he s the manager of the marketing department .
+= ['他', '是', '营销部', '的', '负责人', '。']
+< 他 是 营销部 的 负责人 。 <EOS>
+
+> he is married to an american lady .
+= ['他', '和', '一个', '美国', '女人', '结婚', '了', '。']
+< 他 和 一个 美国 女人 结婚 了 。 <EOS>
+
 ## Notes about Sequence to Sequence
 
 ### Thinking1：What is AutoEncoder?
