@@ -17,7 +17,7 @@ By learning English and corresponding Chinese translation, a machine translation
 * Finally, use the learned machine translation model to translate English sentences
 
 ### Loss of the model
-![loss plot](/images/logo.png)
+![loss plot](Loss_plot.png)
 
 ## Notes about Sequence to Sequence
 
