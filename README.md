@@ -1,6 +1,9 @@
 # 中英文自动翻译模型的构建
 # Constructing a Chinese-English Automatic Translator
-Main Tech: Python / Seq2Seq / Encoder / Decoder / teacher forcing / attention / GRU / LSTM / Embedding / Pytorch
+
+## Main Tech: 
+
+Python / Seq2Seq / Encoder / Decoder / teacher forcing / attention / GRU / LSTM / Embedding / Pytorch
 
 ## Introduction：
 
